@@ -1,16 +1,15 @@
 # See https://help.github.articles/ignoring-files/ for more about ignoring files.
 
-./Ml_model/model1/clf_data/
-./Ml_model/model1/data/
-./Ml_model/model1/myenv/
-./Ml_model/model2/carPark.mp4
+Ml_model/model1/clf_data/
+Ml_model/model1/data/
+Ml_model/model1/myenv/
+Ml_model/model2/carPark.mp4
 
 # dependencies
-./node_modules/
+node_modules/
 /.pnp
 .pnp.js
 
-*node_modules/*
 # testing
 /coverage
 
